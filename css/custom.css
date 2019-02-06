@@ -25,6 +25,9 @@ strong { color: inherit; }
 .title { color: inherit; }
 .subtitle { color: inherit; }
 
+.red {
+  color: #C11327 !important;
+}
 
 .button.weight {
   font-weight:800;
