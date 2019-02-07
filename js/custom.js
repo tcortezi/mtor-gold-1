@@ -39,7 +39,7 @@ function countdown(endDate) {
 }
 
 (function () { 
-  countdown('02/08/2019 00:01:00 AM'); 
+  countdown('02/08/2019 00:23:59 AM'); 
 }());
 
 // Modal
